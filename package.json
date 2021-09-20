@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "lib-ts-template",
+  "description": "a ts lib template",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "init:config": "node ./scripts/init-config.js"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

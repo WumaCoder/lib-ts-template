@@ -5,12 +5,13 @@ help your fast develop lib.
 
 ## Feature
 
-- [ ] Monorepo
-- [ ] TypeScript
-- [ ] Jest
+- [x] Monorepo
+- [x] TypeScript
+- [x] Jest
+- [x] Rollup
 - [ ] Git Hook
 - [ ] Commit Lit
-- [ ] MIT License
+- [x] MIT License
 
 ## About
 
